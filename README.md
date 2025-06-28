@@ -1,4 +1,6 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Matheus Otoni
+
+**Arquiteto de Software** especializado em .NET e desenvolvimento de **APIs RESTful**. Com mais de 10 anos de experiência, entrego soluções escaláveis, seguras e de alta manutenibilidade.
 
 <!--
 **matheusotoni/matheusotoni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
