@@ -2,6 +2,7 @@
 
 **Arquiteto de Software** especializado em .NET e desenvolvimento de **APIs RESTful**. Com mais de 10 anos de experiência, entrego soluções escaláveis, seguras e de alta manutenibilidade.
 
+<!--
 ## ⏱️ Estatísticas de codificação (WakaTime)
 
 <!--START_SECTION:waka-->
@@ -12,7 +13,7 @@
   <a href="https://github.com/matheusotoni">
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Matheus_Otoni" />
   </a>
-</p>
+</p>-->
 
 <!--END_SECTION:waka-->
 
