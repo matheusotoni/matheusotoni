@@ -2,18 +2,19 @@
 
 **Arquiteto de Software** especializado em .NET e desenvolvimento de **APIs RESTful**. Com mais de 10 anos de experiência, entrego soluções escaláveis, seguras e de alta manutenibilidade.
 
-<!--
-## ⏱️ Estatísticas de codificação (WakaTime)
+<!-- ## ⏱️ Estatísticas de codificação (WakaTime) -->
 
 <!--START_SECTION:waka-->
 
+<!--
 ![Matheus Otoni's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Matheus_Otoni&layout=compact&theme=radical)
 
 <p align="center">
   <a href="https://github.com/matheusotoni">
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Matheus_Otoni" />
   </a>
-</p>-->
+</p>
+-->
 
 <!--END_SECTION:waka-->
 
@@ -53,7 +54,7 @@ Procuro oportunidades para aplicar minha experiência em APIs e backend — desd
 
 ---
 
-*Atualizado em: Novembro/2025*
+*Atualizado em: Dezembro/2025*
 
 
 <!--
